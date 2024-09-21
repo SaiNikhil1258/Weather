@@ -14,7 +14,10 @@ The dataset contains multiple columns, including features such as temperature, h
 - **Features**: Weather observations such as temperature, wind, humidity, etc.
 ## Downloading the Data
 
-The dataset is available at https://www.kaggle.com/jsphyg/weather-dataset-rattle-package .
+The dataset is available at [Dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package).
+The .ipynb file is 
+[WeatherClassifier.ipynb](./RF.ipynb)
+
 ### Key Columns:
 - **Date**: The date of observation
 - **Location**: The location of the weather station
