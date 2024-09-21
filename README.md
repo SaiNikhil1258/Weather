@@ -12,7 +12,9 @@ The dataset contains multiple columns, including features such as temperature, h
 - **Source**: [Bureau of Meteorology](http://www.bom.gov.au/climate/data)
 - **Target variable**: `RainTomorrow` (Yes/No)
 - **Features**: Weather observations such as temperature, wind, humidity, etc.
+## Downloading the Data
 
+The dataset is available at https://www.kaggle.com/jsphyg/weather-dataset-rattle-package .
 ### Key Columns:
 - **Date**: The date of observation
 - **Location**: The location of the weather station
