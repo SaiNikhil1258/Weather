@@ -40,8 +40,6 @@ Several classification algorithms were applied to the dataset, including:
 - **Random Forest Classifier**
 - **Logistic Regression**
 - **Decision Trees**
-- **Support Vector Machines (SVM)**
-- **Gradient Boosting Classifier**
 
 ## Best Model
 
